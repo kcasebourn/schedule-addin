@@ -1,2 +1,0 @@
-(function(){if("object"==typeof globalThis)return globalThis;try{this||new Function("return this")()}catch(t){if("object"==typeof window)return window}})(),Office.onReady((function(){}));
-//# sourceMappingURL=commands.js.map
